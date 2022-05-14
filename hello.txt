@@ -12,5 +12,5 @@ hello guguji!  hello git!
 hello guguji!  hello git!
 hello guguji!  hello git!
 hello guguji!  hello git!
-hello guguji!  hello git! 
-hello guguji!  hello git! hot-fix test
+hello guguji!  hello git! hot-fix test 
+hello guguji!  hello git!
